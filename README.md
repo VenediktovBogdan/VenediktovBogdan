@@ -3,7 +3,8 @@
 
 <b><h2>Languages and Tools</h2></b>
 ![Python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=F3E259)
-![CSharp](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=CSharp&logoColor=00e600)
+![CSharp](https://img.shields.io/badge/-CSharp-black?style=for-the-badge&logo=CSharp&logoColor=00e600)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F3E259)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=ffa500)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=42aaff)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=SQLite&logoColor=42aaff)
