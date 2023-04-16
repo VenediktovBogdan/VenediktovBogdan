@@ -1,5 +1,6 @@
 <b><h2>About me</h2></b>
-<p>Hello everyone My name is Bogdan and I am fond of development. Now I'm programming small websites, chatbots and learning how to create neural networks.</p>
+<p>Hello!</p>
+<p>My name is Bogdan. I like programming. Now I'm programming small websites, chatbots and learning how to create neural networks.</p>
 
 <b><h2>Languages and Tools</h2></b>
 ![Python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=F3E259)
